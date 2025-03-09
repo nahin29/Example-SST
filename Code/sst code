@@ -2,7 +2,7 @@ library(dplyr) # For basic data manipulation
 library(ggplot2) # For visualising data
 library(heatwaveR) # For detecting MHWs
 library(tidync) # For easily dealing with NetCDF data
-library(doParallel) # For parallel processing
+library(doParallel) # For parallel processing 
 
 
 
